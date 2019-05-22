@@ -1,3 +1,3 @@
 # SparkML
-
-The goal of this wok is to reproduce the results of this paper [https://arxiv.org/abs/1807.00083] 
+* [Blog entry](#http://db-blog.web.cern.ch/blog/luca-canali/machine-learning-pipelines-high-energy-physics-using-apache-spark-bigdl)
+* Updated version of this repository here https://github.com/cerndb/SparkDLTrigger
